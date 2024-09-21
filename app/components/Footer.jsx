@@ -86,7 +86,7 @@ const Footer = () => {
             </div>
             <hr className="my-8 border-neutral-300" />
             <p className="text-sm text-neutral-600 text-center gap-6">
-              Copyright ©2022 Nostra. All right reserved
+              Copyright ©2024 Payless4tech. All right reserved
             </p>
             <a href="#" className="text-neutral-900 text-sm">Privacy Policy</a>
           </div>
